@@ -1,0 +1,36 @@
+{
+  "name": "iamport-cordova-interface",
+  "version": "1.0.0",
+  "description": "Iamport Common Interface for Cordova",
+  "cordova": {
+    "id": "iamport-cordova-interface",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamport/iamport-cordova-interface.git"
+  },
+  "keywords": [
+    "payment",
+    "iamport",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "iamport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamport/iamport-cordova-interface/issues"
+  },
+  "homepage": "https://github.com/iamport/iamport-cordova-interface#readme"
+}
