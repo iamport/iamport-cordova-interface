@@ -21,12 +21,9 @@
     "cordova-ios",
     "cordova-android"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=4.0.0"
-    }
-  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
   "author": "iamport",
   "license": "MIT",
   "bugs": {
