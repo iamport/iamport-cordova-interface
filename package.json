@@ -1,6 +1,6 @@
 {
   "name": "iamport-cordova-interface",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Iamport Common Interface for Cordova",
   "cordova": {
     "id": "iamport-cordova-interface",
